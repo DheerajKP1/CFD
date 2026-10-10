@@ -1,0 +1,8 @@
+*.ipynb
+*.py
+algo.cpp
+*.exe
+/.vscode
+/build
+/build-debug
+
