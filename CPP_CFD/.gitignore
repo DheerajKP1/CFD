@@ -5,4 +5,4 @@ algo.cpp
 /.vscode
 /build
 /build-debug
-
+/results
